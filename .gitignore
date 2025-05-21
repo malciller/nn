@@ -2,4 +2,5 @@
 /venv
 *.png
 *.json
-.DS_Store
+/.DS_Store
+*.pth
