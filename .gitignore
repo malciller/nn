@@ -2,3 +2,4 @@
 /venv
 *.png
 *.json
+.DS_Store
